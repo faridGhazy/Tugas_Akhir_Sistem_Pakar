@@ -1,5 +1,5 @@
 # Tugas_Akhir_Sistem_Pakar
-# SPK-Sapi-Potong
+# Sapi-Potong
 
 1. Tampilan Halaman Home Utama
 
