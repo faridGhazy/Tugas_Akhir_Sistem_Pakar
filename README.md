@@ -1,5 +1,5 @@
 # Tugas_Akhir_Sistem_Pakar
-# Sapi-Potong
+# SPK-Sapi-Potong
 
 1. Tampilan Halaman Home Utama
 
@@ -44,3 +44,9 @@
 ![image](https://user-images.githubusercontent.com/63331958/192149663-bed9a9f6-2f95-4a3b-889a-e36900393146.png)
 
 11. Tampilan Halaman Admin Data Laporan User
+
+![image](https://user-images.githubusercontent.com/63331958/192149684-4d25e3e9-856c-4027-b4c2-506b56902ad9.png)
+
+12. Tampilan Halaman Admin Detail Laporan User
+
+![image](https://user-images.githubusercontent.com/63331958/192149716-a183af8c-3aa9-406f-9ada-cc32a9bb2897.png)
